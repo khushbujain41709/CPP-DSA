@@ -1,0 +1,19 @@
+Git is a distributed version control system(VCS).
+
+Version Control System is of two types :
+1) Centralized version control system - A central computer(server) maintained a repository and various developers commit their codes to repository and also update their code from repository. 
+Disadvantages - If server computer dies then all codes will be vanished, to commit or update codes, the server and client must be connecetd with network.
+Ex - CVS, Perforce, SubVersion
+2) Distributed version control system - There will be an extra layer of repository in Distributed version control system. Here, clients have a loacl repository where they do commit and updates. Then they push changes to the server repository and pull changes from the server repository.
+Ex - Git, Bazaar, Darcs, Mercurial
+
+
+There are 2 types of Git Software :
+1) Git Server - It is a repository. It stores and maintains the source code of the project. Ex - Github, Gitlab, Gitblit, BitBucket
+2) Git Client - It is an open sourec software in form of .exe file. After installation we get Git Bash, Git GUI, Git cmd
+
+Git Architecture :
+There are 3 stages involved -
+1) Working Area
+2) Staging Area
+3) Local Repository

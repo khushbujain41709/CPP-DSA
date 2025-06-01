@@ -1,0 +1,11 @@
+Inorder of BST is sorted in ascending order.
+Generally, duplicate elements are not present in BST but if present LST <= root < RST
+
+Advantages -
+1) Efficient Searching
+2) Efiicient Insertiona nd Deletion
+3) Usage in implemation of other data structures like maps, sets , priority queues etc.
+
+Disadvantages -
+1) Lack of support for range queries
+2) Not that efficient in case of unbalanced trees.
