@@ -1,0 +1,7 @@
+Size = Number of edges.
+Number of edges = Size - 1
+Height = Level - 1
+Trees has no loops and circuits.
+It has no self loop.
+Binary trees has 0,1,2 children that is upto 2 child nodes. It has Null children sometimes. Like A parent has 2 child one. One child has 2 children and one child has one child and one Null child. Every node has a value and addresses of left child and right child.
+AVL Trees are balanced binary Search Trees.

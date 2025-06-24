@@ -1,0 +1,9 @@
+Dynamic Programming (DP) is optimized recursion
+Types of DP - 
+1) Recursion + Memoization - Top Down DP (Recursive Method)
+2) Tabulation - Bottom Up DP (Iterative Method)
+
+For competitive programming, we generally :
+Make global dp vector, now in main function clear the dp vector -> dp.clear() then resize the dp with the length greater than given in constraint. If given length in constraint is 100000 then do -> dp.resize(100005 , -1)
+
+Problems of DP consists of combinatorics(counting), finding maximum and minimum.
