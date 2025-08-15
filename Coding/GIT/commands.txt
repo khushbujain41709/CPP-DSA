@@ -1,0 +1,14 @@
+Git Commands :
+1) pwd - to know the current directory
+2) cd DirectoryName/ - change directory
+3) Git add . - Moves changes from the working directory to the staging area.
+4) Git commit - Takes the staged snapshot and commits it to the project history.
+5) git init - Initializes a new Git repository. 
+6) git status - Displays the state of the working directory and the staged snapshot. 
+7) git config - To set the basic configurations on Git like your name and email.
+8) git config –-global user.name "" - Sets configuration values for your user name on git. 
+9) git config –-global user.email "" - Sets configuration values for your user email on git.  
+10) git commit -m "" - To commit our changes(taking a snapshot) and provide a message to remember for future reference.
+11) git remote add origin <link> - This remote will be used to pull any content from the directory and push our local content to the global server.
+12) git push -u origin main - To push all the contents of our local repository that belong to the main branch to the server(Global repository).
+13) git clone <link> - To clone or make a local copy of the global repository in your system

@@ -1,0 +1,11 @@
+It is used in the questions where window or subarray of size k is mentioned.
+Subarray is continuous part of array.
+Subarray is known as window.
+Last window starts from n-k index.
+If we see subarray question, then we can use prefix sum or sliding window or both prefix sum and sliding window.
+
+for(int i = 0;i<n-k+1;i++){
+    for(int j = i;j<i+k;j++){
+    }
+}
+

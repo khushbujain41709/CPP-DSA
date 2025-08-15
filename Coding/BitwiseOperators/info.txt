@@ -1,0 +1,14 @@
+These are applied on the corresponding bits of the data.
+AND - &
+OR - |
+NOT - ~
+XOR - ^
+
+
+
+
+
+
+
+
+
