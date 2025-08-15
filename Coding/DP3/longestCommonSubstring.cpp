@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // GFG
+=======
+>>>>>>> 81ea8a2b56bab97a32db007e74cbd96d50711cf7
 #include<iostream>
 #include<vector>
 #include<climits>
